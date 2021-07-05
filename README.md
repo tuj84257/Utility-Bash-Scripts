@@ -10,7 +10,7 @@ Find the details for each script below.
 
 
 
-## :desktop_computer: Get CPU usage data from a particular process as a graph
+### :desktop_computer: Get CPU usage data from a particular process as a graph
 
 Script link: <a href="https://github.com/tuj84257/Utility-Bash-Scripts/blob/main/get_CPU_usage.sh">get_CPU_usage</a><br>
 Dependencies: <a href="https://github.com/tenox7/ttyplot">ttyplot</a>
